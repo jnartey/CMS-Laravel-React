@@ -8,6 +8,7 @@ Getting Started
 3. php artisan migrate to migrate or seed default data and tables to the database
 
 
-API Client
+API Client React JS
 1. src/config/settings.js enter the base url of the api server
+2. npm start to start api client
 
